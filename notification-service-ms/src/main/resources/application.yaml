@@ -1,0 +1,10 @@
+server:
+  port: 8083
+spring:
+  application:
+    name: notification-service-ms
+  rabbitmq:
+    host: localhost
+    port: 5672
+    username: aaaaa
+    password: aaaaa
